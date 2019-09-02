@@ -1,0 +1,6 @@
+#home{
+    background-image: url("../images/hero-image.jpg");
+    height: 700px;
+    /*filter: contrast(50%);*/
+    /*filter: brightness(20%);*/
+}
